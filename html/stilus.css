@@ -1,0 +1,51 @@
+a:link{
+    color: black;
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+    color: black;
+}
+#nev,#suli{
+    text-align: center;
+}
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html, body{
+    height: 100%;
+}
+body{
+    font-family: 'Poppins',sans-serif;
+    font-weight: 400;
+}
+.container{
+    
+}
+#tablazat table {
+    border: 40,40px solid rgb(138, 126, 126);
+    border-radius: 1%;
+    background-color: rgb(138, 126, 126);
+    margin: auto;
+    margin-top: 15%;
+    height: 300px;
+    width: 70%;
+}
+#tablazat td{
+    background-color: rgb(138, 126, 126);  
+}
+#tablazat tr{
+    background-color: rgb(138, 126, 126);
+}
+#hatter{ 
+    background-color: rgb(138, 126, 126);
+}
+#szoveg{
+    text-align: center;
+    
+    
+    
+}
